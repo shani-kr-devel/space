@@ -1,0 +1,8 @@
+ollama
+SQLAlchemy
+customtkinter
+# Install one of these only if you're connecting to that database type:
+# psycopg2-binary     # for PostgreSQL
+# pymysql             # for MySQL/MariaDB
+# pyodbc              # for SQL Server
+# SQLite needs no extra driver -- it's built into Python.
